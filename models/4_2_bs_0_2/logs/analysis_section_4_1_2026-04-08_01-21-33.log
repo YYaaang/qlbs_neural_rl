@@ -1,0 +1,117 @@
+[MarketArtifactLoader] Loaded market artifact: 
+path            : models/4_2_bs_0_2
+  - MarketCFG   : market_cfg.json
+  - Critic0     : critic0.pt
+  - RuntimeCFG  : runtime_cfg.json
+
+[ActorLoader] Loaded actor λ=100000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/actor.pt
+  device: mps, dtype: torch.float32
+[CriticLoader] Loaded critic λ=2500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_2500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=5000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_5000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=7500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_7500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=10000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_10000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=25000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_25000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=50000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_50000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=2500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_2500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=5000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_5000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=7500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_7500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=10000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_10000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=25000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_25000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=50000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_50000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=2500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_2500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=5000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_5000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=7500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_7500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=10000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_10000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=25000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_25000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=50000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_50000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=2500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_2500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=5000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_5000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=7500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_7500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=10000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_10000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=25000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_25000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=50000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_50000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=2500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_2500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=5000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_5000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=7500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_7500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=10000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_10000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=25000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_25000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=50000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_50000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=2500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_2500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=5000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_5000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=7500.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_7500.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=10000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_10000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=25000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_25000.0000.pt
+  device: mps
+[CriticLoader] Loaded critic λ=50000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_50000.0000.pt
+  device: mps

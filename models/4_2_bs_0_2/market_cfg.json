@@ -1,0 +1,13 @@
+{
+  "model": "bs",
+  "level": "market",
+  "S0": 100.0,
+  "K": 100.0,
+  "mu": 0.3,
+  "r": 0.03,
+  "sigma": 0.2,
+  "T": 0.5,
+  "T_steps": 50,
+  "transaction_cost_rate": 0.0,
+  "option_type": "p"
+}

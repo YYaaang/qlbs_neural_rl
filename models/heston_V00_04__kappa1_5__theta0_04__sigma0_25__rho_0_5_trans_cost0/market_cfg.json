@@ -1,0 +1,17 @@
+{
+  "level": "market",
+  "model": "heston",
+  "S0": 100.0,
+  "V0": 0.04,
+  "mu": 0.08,
+  "kappa": 1.5,
+  "theta": 0.04,
+  "sigma": 0.25,
+  "rho": -0.5,
+  "r": 0.03,
+  "T": 0.25,
+  "T_steps": 60,
+  "K": 100.0,
+  "transaction_cost_rate": 0.0,
+  "option_type": "p"
+}

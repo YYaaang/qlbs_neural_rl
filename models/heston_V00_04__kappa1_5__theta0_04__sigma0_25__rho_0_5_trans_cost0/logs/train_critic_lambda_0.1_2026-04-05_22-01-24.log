@@ -1,0 +1,34 @@
+====================================================================================================
+>>> TRAIN NEW CRITIC FROM EXISTING EXPERIMENT
+>>> new critic lambda = 0.1
+>>> 20260405_2201
+>>> Using device: mps
+====================================================================================================
+>>> Loading full experiment artifact
+=== Loading full experiment ===
+[MarketArtifactLoader] Loaded market artifact: 
+path            : models/heston_V00_04__kappa1_5__theta0_04__sigma0_25__rho_0_5
+  - MarketCFG   : market_cfg.json
+  - Critic0     : critic0.pt
+  - RuntimeCFG  : runtime_cfg.json
+
+Market artifact loaded
+[ActorLoader] Loaded actor λ=100000
+  path: models/heston_V00_04__kappa1_5__theta0_04__sigma0_25__rho_0_5/actor_lambda_100000.0000/actor.pt
+  device: mps, dtype: torch.float32
+Actor loaded (λ=100000)
+[CriticLoader] Loaded critic λ=100000
+  path: models/heston_V00_04__kappa1_5__theta0_04__sigma0_25__rho_0_5/actor_lambda_100000.0000/critic_100000.0000.pt
+  device: mps
+Critic loaded (λ=100000)
+=== Full experiment loaded ===
+>>> Freezing actor and critic0
+>>> Initializing new critic
+>>> Start training new critic
+====================================================================================================
+>>> Updating models via backward time training...====================================================================================================
+
+==================================================================================================== 
+======================           Training critic λ=0.1000 | t: 59 ｜ pct:  1.67 %       ====================== 
+==================================================================================================== 
+

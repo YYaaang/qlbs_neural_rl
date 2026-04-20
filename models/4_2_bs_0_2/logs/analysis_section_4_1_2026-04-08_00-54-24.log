@@ -1,0 +1,12 @@
+[MarketArtifactLoader] Loaded market artifact: 
+path            : models/4_2_bs_0_2
+  - MarketCFG   : market_cfg.json
+  - Critic0     : critic0.pt
+  - RuntimeCFG  : runtime_cfg.json
+
+[ActorLoader] Loaded actor λ=100000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/actor.pt
+  device: mps, dtype: torch.float32
+[CriticLoader] Loaded critic λ=100000.0
+  path: models/4_2_bs_0_2/actor_lambda_100000.0000/critic_100000.0000.pt
+  device: mps

@@ -1,0 +1,24 @@
+[MarketArtifactLoader] Loaded market artifact: 
+path            : models/heston_V00_04__kappa1_5__theta0_04__sigma0_25__rho_0_5_trans_cost0
+  - MarketCFG   : market_cfg.json
+  - Critic0     : critic0.pt
+  - RuntimeCFG  : runtime_cfg.json
+
+[ActorLoader] Loaded actor λ=100000
+  path: models/heston_V00_04__kappa1_5__theta0_04__sigma0_25__rho_0_5_trans_cost0/actor_lambda_100000.0000/actor.pt
+  device: mps, dtype: torch.float32
+[CriticLoader] Loaded critic λ=100000
+  path: models/heston_V00_04__kappa1_5__theta0_04__sigma0_25__rho_0_5_trans_cost0/actor_lambda_100000.0000/critic_100000.0000.pt
+  device: mps
+[MarketArtifactLoader] Loaded market artifact: 
+path            : models/bs_0_2_mu_0_08
+  - MarketCFG   : market_cfg.json
+  - Critic0     : critic0.pt
+  - RuntimeCFG  : runtime_cfg.json
+
+[ActorLoader] Loaded actor λ=100000
+  path: models/bs_0_2_mu_0_08/actor_lambda_100000.0000/actor.pt
+  device: mps, dtype: torch.float32
+[CriticLoader] Loaded critic λ=100000
+  path: models/bs_0_2_mu_0_08/actor_lambda_100000.0000/critic_100000.0000.pt
+  device: mps
