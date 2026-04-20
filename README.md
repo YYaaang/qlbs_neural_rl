@@ -1,4 +1,4 @@
-# GLBS-RL
+# GLBS-NEURAL_RL
 
 This project implements a discrete-time, risk-sensitive option pricing and hedging framework based on QLBS and reinforcement learning methods.  
 It focuses on optimal hedging under residual risk and supports both Black–Scholes and Heston market models.
